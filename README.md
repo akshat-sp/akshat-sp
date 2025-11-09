@@ -1,16 +1,27 @@
-## Hi there 👋
+# License Plate Recognition System
 
-<!--
-**akshat-sp/akshat-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚗 Academic Project - Signals and Systems
 
-Here are some ideas to get you started:
+### Live Demo
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/license-plate-recognition/blob/main/LPR_System.ipynb)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Features
+- License plate detection using computer vision
+- OCR-based text recognition
+- Multiple detection strategies
+- Real-time processing capability
+
+### Quick Start
+1. Click the "Open in Colab" button above
+2. Run all cells
+3. Upload your car images or use test images
+
+### Project Structure
+- `LPR_System.ipynb` - Main implementation
+- `test_images/` - Sample car images
+- `project_report.pdf` - Detailed documentation
+
+### Technologies Used
+- Python, OpenCV, EasyOCR
+- Computer Vision algorithms
+- Image processing techniques
