@@ -1,6 +1,6 @@
 # License Plate Recognition System
 
-## 🚗 Academic Project - Signals and Systems
+## Academic Course Project - Signals and Systems
 
 ### Live Demo
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshat-sp/license-plate-recognition/blob/main/LPR_v2.ipynb)
